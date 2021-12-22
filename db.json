@@ -108,7 +108,7 @@
         {
             "id": 16,
             "category_id": 3,
-            "name": "sutlac",
+            "name": "Sütlaç",
             "price": 15.0,
             "img": "sutlac.jpg"
         },
@@ -159,7 +159,7 @@
             "category_id": 4,
             "name": "ihsanSpecial",
             "price": 60.0,
-            "img": "ihsanSpecieal.jpg"
+            "img": "ihsanSpecial.jpg"
         }
     ],
     "categories": [
