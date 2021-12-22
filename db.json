@@ -1,0 +1,183 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "category_id": 1,
+            "name": "Kola",
+            "price": 10.0,
+            "img": "kola.jpg"
+        },
+        {
+            "id": 2,
+            "category_id": 1,
+            "name": "Ice Tea",
+            "price": 10.0,
+            "img": "ice-tea.jpg"
+        },
+        {
+            "id": 3,
+            "category_id": 1,
+            "name": "Çay",
+            "price": 5.0,
+            "img": "cay.jpg"
+        },
+        {
+            "id": 4,
+            "category_id": 1,
+            "name": "Su",
+            "price": 4.0,
+            "img": "su.jpg"
+        },
+        {
+            "id": 5,
+            "category_id": 1,
+            "name": "Ayran",
+            "price": 5.0,
+            "img": "ayran.jpg"
+        },
+        {
+            "id": 6,
+            "category_id": 1,
+            "name": "Soda",
+            "price": 4.0,
+            "img": "soda.jpg"
+        },
+        {
+            "id": 7,
+            "category_id": 1,
+            "name": "Kahve",
+            "price": 10.0,
+            "img": "kahve.jpg"
+        },
+        {
+            "id": 8,
+            "category_id": 2,
+            "name": "Hamburger",
+            "price": 30.0,
+            "img": "hamburger.jpg"
+        },
+        {
+            "id": 9,
+            "category_id": 2,
+            "name": "pizza",
+            "price": 28.0,
+            "img": "pizza.jpg"
+        },
+        {
+            "id": 10,
+            "category_id": 2,
+            "name": "wrap",
+            "price": 25.0,
+            "img": "wrap.jpg"
+        },
+        {
+            "id": 11,
+            "category_id": 2,
+            "name": "steak",
+            "price": 50.0,
+            "img": "steak.jpg"
+        },
+        {
+            "id": 12,
+            "category_id": 2,
+            "name": "balık",
+            "price": 40.0,
+            "img": "balık.jpg"
+        },
+        {
+            "id": 13,
+            "category_id": 2,
+            "name": "lahmacun",
+            "price": 12.0,
+            "img": "lahmacun.jpg"
+        },
+        {
+            "id": 14,
+            "category_id": 2,
+            "name": "kebap",
+            "price": 35.0,
+            "img": "kebap.jpg"
+        },
+        {
+            "id": 15,
+            "category_id": 3,
+            "name": "magnolya",
+            "price": 15.0,
+            "img": "magnolya.jpg"
+        },
+        {
+            "id": 16,
+            "category_id": 3,
+            "name": "sütlaç",
+            "price": 15.0,
+            "img": "sütlaç.jpg"
+        },
+        {
+            "id": 17,
+            "category_id": 3,
+            "name": "chesecake",
+            "price": 15.0,
+            "img": "chesecake.jpg"
+        },
+        {
+            "id": 18,
+            "category_id": 3,
+            "name": "triliçe",
+            "price": 15.0,
+            "img": "trileçe.jpg"
+        },
+        {
+            "id": 19,
+            "category_id": 3,
+            "name": "künefe",
+            "price": 20.0,
+            "img": "künefe.jpg"
+        },
+        {
+            "id": 20,
+            "category_id": 4,
+            "name": "love66",
+            "price": 60.0,
+            "img": "love66.jpg"
+        },
+        {
+            "id": 21,
+            "category_id": 4,
+            "name": "elma",
+            "price": 60.0,
+            "img": "elma.jpg"
+        },
+        {
+            "id": 22,
+            "category_id": 4,
+            "name": "ladykiller",
+            "price": 60.0,
+            "img": "ladykiller.jpg"
+        },
+        {
+            "id": 23,
+            "category_id": 4,
+            "name": "ihsanSpecial",
+            "price": 60.0,
+            "img": "ihsanSpeceal.jpg"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "İçecekler"
+        },
+        {
+            "id": 2,
+            "name": "anaYemekler"
+        },
+        {
+            "id": 3,
+            "name": "tatlılar"
+        },
+        {
+            "id": 4,
+            "name": "nargile"
+        }
+    ]
+  }
