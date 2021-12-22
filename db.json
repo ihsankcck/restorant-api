@@ -110,7 +110,7 @@
             "category_id": 3,
             "name": "sütlaç",
             "price": 15.0,
-            "img": "sütlaç.jpg"
+            "img": "sutlac.jpg"
         },
         {
             "id": 17,
@@ -131,7 +131,7 @@
             "category_id": 3,
             "name": "künefe",
             "price": 20.0,
-            "img": "künefe.jpg"
+            "img": "kunefe.jpg"
         },
         {
             "id": 20,
